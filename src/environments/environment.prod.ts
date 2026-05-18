@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiOrigin: 'http://localhost:5001',
+  apiOrigin: 'https://fatma-backend-app.vercel.app',
 };
